@@ -1,0 +1,15 @@
+id_empleado,nombre,id_departamento,fecha_ingreso,motivo_rechazo
+EM403,Elena Rivas,D99,2020-01-14,Departamento invalido
+EM406,Adriana Santos,D99,2022-04-22,Departamento invalido
+EM419,Elena Ramírez,D16,,Falta fecha_ingreso
+EM423,Daniela López,D99,2020-07-16,Departamento invalido
+EM447,Luis Mendoza,D14,,Falta fecha_ingreso
+EM458,Andrea Martínez,D12,,Falta fecha_ingreso
+EM469,Luis Castro,D13,,Falta fecha_ingreso
+EM487,Diego Cruz,D14,,Falta fecha_ingreso
+EM491,Mario Guerrero,D15,,Falta fecha_ingreso
+EM496,Elena Morales,D12,,Falta fecha_ingreso
+EM501,Paola Pérez,D10,,Falta fecha_ingreso
+EM510,Natalia Guerrero,D11,,Falta fecha_ingreso
+EM515,Camila Torres,D13,,Falta fecha_ingreso
+EM525,Ana Flores,D12,,Falta fecha_ingreso
